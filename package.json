@@ -1,0 +1,22 @@
+{
+  "name": "ilovereact",
+  "version": "1.0.0",
+  "description": "my react js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NewbieHub/sike-react-ilovereact.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Andrew Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NewbieHub/sike-react-ilovereact/issues"
+  },
+  "homepage": "https://github.com/NewbieHub/sike-react-ilovereact#readme"
+}
