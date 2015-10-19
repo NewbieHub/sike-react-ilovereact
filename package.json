@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/NewbieHub/sike-react-ilovereact/issues"
   },
-  "homepage": "https://github.com/NewbieHub/sike-react-ilovereact#readme"
+  "homepage": "https://github.com/NewbieHub/sike-react-ilovereact#readme",
+  "dependencies": {
+    "browser-sync": "^2.9.3"
+  }
 }
